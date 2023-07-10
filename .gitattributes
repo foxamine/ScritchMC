@@ -1,0 +1,1 @@
+minecraft/mods/better-end-2.1.6.jar filter=lfs diff=lfs merge=lfs -text
