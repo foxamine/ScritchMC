@@ -1,0 +1,65 @@
+config/appleskin.json5
+config/bclib/biomes.json
+config/bclib/cache.json
+config/bclib/client.json
+config/bclib/generator.json
+config/bclib/main.json
+config/bclib/recipes.json
+config/bclib/server.json
+config/betterend/biomes.json
+config/betterend/blocks.json
+config/betterend/client.json
+config/betterend/enchantments.json
+config/betterend/entities.json
+config/betterend/generator.json
+config/betterend/items.json
+config/betterend/portals.json
+config/betterend/recipes.json
+config/camerautils/camerautils.properties
+config/create-client.toml
+config/create-common.toml
+config/fabric/indigo-renderer.properties
+config/farmersdelight.json
+config/flywheel.json
+config/ftbbackups2.json
+config/jade/hide-entities.json
+config/jade/jade.json
+config/jade/plugins.json
+config/jade/sort-order.json
+config/jei/blacklist.cfg
+config/jei/ingredient-list-mod-sort-order.ini
+config/jei/ingredient-list-type-sort-order.ini
+config/jei/jei-client.ini
+config/jei/jei-colors.ini
+config/jei/jei-debug.ini
+config/jei/jei-mod-id-format.ini
+config/jei/recipe-category-sort-order.ini
+config/lithium.properties
+config/modmenu.json
+config/MouseTweaks.cfg
+config/paxi/datapacks/afk display v1.1.3.zip
+config/paxi/datapacks/anti enderman grief v1.1.3.zip
+config/paxi/datapacks/armor statues v2.8.4.zip
+config/paxi/datapacks/Colorful+Azaleas+Trees+Create+Saw+Compat+v1.0.zip
+config/paxi/datapacks/double shulker shells v1.3.3.zip
+config/paxi/datapacks/dragon drops v1.3.3.zip
+config/paxi/datapacks/more mob heads v2.11.1.zip
+config/paxi/datapacks/multiplayer sleep v2.6.3.zip
+config/paxi/datapacks/player head drops v1.1.3.zip
+config/paxi/datapacks/track raw statistics v1.5.3.zip
+config/paxi/datapacks/track statistics v1.1.4.zip
+config/paxi/datapacks/VanillaTweaks_c367838.zip
+config/paxi/datapacks/wandering trades v1.6.0.zip
+config/paxi/datapack_load_order.json
+config/paxi/resourcepacks/Trifecta_Title.zip
+config/paxi/resourcepack_load_order.json
+config/smoothboot.json
+config/smoothswapping.json
+config/status/state-client.properties
+config/status/status-server.properties
+config/supplementaries-client.json
+config/supplementaries-common.json
+config/voicechat/translations.properties
+config/voicechat/username-cache.json
+config/voicechat/voicechat-client.properties
+config/voicechat/voicechat-server.properties

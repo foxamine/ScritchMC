@@ -1,0 +1,99 @@
+{
+  "favorites": [
+    {
+      "stack": "item:create:andesite_alloy",
+      "recipe": "create:crafting/materials/andesite_alloy"
+    },
+    {
+      "stack": {
+        "type": "item",
+        "id": "minecraft:bowl",
+        "amount": 4
+      },
+      "recipe": "minecraft:bowl"
+    }
+  ],
+  "lookup_history": [
+    "item:minecraft:bookshelf",
+    "item:farmersdelight:minced_beef",
+    "item:minecraft:barrel",
+    "item:minecraft:minecart",
+    "item:farmersdelight:birch_cabinet",
+    "item:farmersdelight:oak_cabinet",
+    "item:extended_drawers:lock",
+    {
+      "type": "item",
+      "id": "minecraft:smoker",
+      "amount": 2
+    },
+    "item:minecraft:crafting_table",
+    "item:extended_drawers:single_drawer",
+    "item:farmersdelight:chicken_sandwich",
+    "item:minecraft:bowl",
+    "item:farmersdelight:chicken_soup",
+    "item:travelersbackpack:fox{}",
+    "item:minecraft:piston",
+    "item:create:andesite_alloy",
+    "item:create:piston_extension_pole",
+    "item:create:linear_chassis",
+    "item:farmersdelight:mushroom_rice",
+    "item:farmersdelight:roasted_mutton_chops",
+    "item:farmersdelight:pasta_with_mutton_chop",
+    "item:farmersdelight:dog_food",
+    "item:farmersdelight:apple_cider",
+    "item:farmersdelight:melon_juice",
+    "item:chunkloaders:basic_chunk_loader",
+    "item:chunkloaders:single_chunk_loader"
+  ],
+  "craft_history": [
+    "minecraft:iron_ingot_from_nuggets",
+    "minecraft:paper",
+    "minecraft:bookshelf",
+    "minecraft:book",
+    "minecraft:oak_planks",
+    "minecraft:birch_planks",
+    "minecraft:oak_fence",
+    "minecraft:stick",
+    "minecraft:barrel",
+    "minecraft:oak_slab",
+    "bclib:tag_minecart",
+    "minecraft:lantern",
+    "minecraft:red_banner",
+    "universal_dyeing:red_wool",
+    "minecraft:red_carpet",
+    "minecraft:red_dye_from_beetroot",
+    "minecraft:white_carpet",
+    "farmersdelight:birch_cabinet",
+    "minecraft:birch_slab",
+    "minecraft:birch_trapdoor",
+    "minecraft:oak_trapdoor",
+    "minecraft:stone_hoe",
+    "minecraft:arrow",
+    "farmersdelight:tomato_seeds",
+    "extended_drawers:single_drawer",
+    "minecraft:chest",
+    "farmersdelight:chicken_sandwich",
+    "minecraft:stone_sword",
+    "minecraft:stone_pickaxe",
+    "minecraft:stick_from_bamboo_item",
+    "farmersdelight:egg_sandwich",
+    "minecraft:golden_boots",
+    "minecraft:birch_fence",
+    "minecraft:crafting_table",
+    "minecraft:birch_boat",
+    "minecraft:stone_shovel",
+    "farmersdelight:tomato_crate",
+    "create:crafting/kinetics/piston_extension_pole",
+    "create:crafting/materials/andesite_alloy",
+    "minecraft:red_dye_from_rose_bush",
+    "minecraft:iron_shovel",
+    "minecraft:bow"
+  ],
+  "recipe_defaults": {
+    "added": [],
+    "tags": {},
+    "resolutions": {},
+    "disabled": []
+  },
+  "hidden_stacks": []
+}

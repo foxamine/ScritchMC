@@ -1,0 +1,14 @@
+name = "FoxGlow"
+filename = "FoxGlow-1.5.0+fabric1.19.2.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/3rGhEp20/versions/Q65jyxDw/FoxGlow-1.5.0%2Bfabric1.19.2.jar"
+hash-format = "sha512"
+hash = "e5b947b0232f244fae976c8127b5a24ea1091244bd499c9023a1c7e85e02353b3b72064f1c5736e84d3b424e97e99d0e726889c9e0132ca0e695763230851c99"
+
+[update]
+[update.modrinth]
+mod-id = "3rGhEp20"
+version = "Q65jyxDw"
